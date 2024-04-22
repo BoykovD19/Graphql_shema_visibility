@@ -1,6 +1,10 @@
 Graphql_shema_visibility
+
 How to start
+
 Istall requirements
-pip install -r requirements.txt
+- pip install -r requirements.txt
+
+
 Run
-python manege.py runserver
+- python manege.py runserver
